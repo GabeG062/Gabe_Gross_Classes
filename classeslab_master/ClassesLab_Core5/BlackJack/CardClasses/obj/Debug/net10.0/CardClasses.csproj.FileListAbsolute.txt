@@ -1,0 +1,12 @@
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/bin/Debug/net10.0/CardClasses.deps.json
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/bin/Debug/net10.0/CardClasses.dll
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/bin/Debug/net10.0/CardClasses.pdb
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/obj/Debug/net10.0/CardClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/obj/Debug/net10.0/CardClasses.AssemblyInfoInputs.cache
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/obj/Debug/net10.0/CardClasses.AssemblyInfo.cs
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/obj/Debug/net10.0/CardClasses.csproj.CoreCompileInputs.cache
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/obj/Debug/net10.0/CardClasses.sourcelink.json
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/obj/Debug/net10.0/CardClasses.dll
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/obj/Debug/net10.0/refint/CardClasses.dll
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/obj/Debug/net10.0/CardClasses.pdb
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/BlackJack/CardClasses/obj/Debug/net10.0/ref/CardClasses.dll

@@ -1,0 +1,12 @@
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/bin/Debug/net10.0/DominoClasses.deps.json
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/bin/Debug/net10.0/DominoClasses.dll
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/bin/Debug/net10.0/DominoClasses.pdb
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/obj/Debug/net10.0/DominoClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/obj/Debug/net10.0/DominoClasses.AssemblyInfoInputs.cache
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/obj/Debug/net10.0/DominoClasses.AssemblyInfo.cs
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/obj/Debug/net10.0/DominoClasses.csproj.CoreCompileInputs.cache
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/obj/Debug/net10.0/DominoClasses.sourcelink.json
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/obj/Debug/net10.0/DominoClasses.dll
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/obj/Debug/net10.0/refint/DominoClasses.dll
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/obj/Debug/net10.0/DominoClasses.pdb
+/home/starman062/RiderProjects/Gabe_Gross_Classes/classeslab_master/ClassesLab_Core5/MexicanTrainDominos/DominoClasses/obj/Debug/net10.0/ref/DominoClasses.dll
