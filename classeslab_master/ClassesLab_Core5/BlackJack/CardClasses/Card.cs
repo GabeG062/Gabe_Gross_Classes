@@ -8,15 +8,15 @@ namespace CardClasses
         private static string[] suits = { "", "Clubs", "Diamonds", "Hearts", "Spades" };
         private static Random generator = new Random();
 
-        private int valued;
+        private int value;
         private int suit;
         // methods 1
 
-        public Card() { }
-        
+        public Card() {}
+
         public Card (int v, int s)
         {
-            valued = v;
+            value = v;
             suit = s;
         }
 
@@ -31,7 +31,7 @@ namespace CardClasses
 
         public bool HasMatchingValue(Card other)
         {
-            if (other.valued == this.valued)
+            if (other.value == this.value)
             {
                 return true;
             }
@@ -40,19 +40,19 @@ namespace CardClasses
 
         public override string ToString()
         {
-            return values[valued] + " of " + suits[suit];
+            return values[value] + " of " + suits[suit];
         }
         //properties
         public int Value
         {
             get
             {
-                return valued;
+                return value;
             }
             set
             {
                 if (value >= 0 && value <= 13)
-                    valued = value;
+                    this.value = value;
                 else
                     throw new ArgumentException("Value must be between 0 and 14.");
             }
@@ -75,7 +75,7 @@ namespace CardClasses
         //methods 2
         public bool IsAce()
         {
-            if (valued == 1)
+            if (value == 1)
             {return true;}
             return false;
         }
@@ -122,7 +122,7 @@ namespace CardClasses
         }
         public bool isFaceCard()
         {
-            if (suit == 0 && valued == 0)
+            if (suit == 0 && value == 0)
             { return true; }
             return false;
         }
